@@ -212,7 +212,7 @@ pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pyrsistent==0.16.0
 PySocks==1.7.1
-pyspark==2.4.5
+pyspark==3.2.2
 pystan==2.19.1.1
 pytest==5.4.1
 pytest-arraydiff==0.3
